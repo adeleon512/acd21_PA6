@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Adam/CLionProjects/acd21_PA6/main.cpp
+iostream
+-
+cctype
+-
+cstring
+-
+string
+-
+cstdlib
+-
+stackHeader.h
+C:/Users/Adam/CLionProjects/acd21_PA6/stackHeader.h
+queueHeader.h
+C:/Users/Adam/CLionProjects/acd21_PA6/queueHeader.h
+
+C:/Users/Adam/CLionProjects/acd21_PA6/myQueue.cpp
+iostream
+-
+queueHeader.h
+C:/Users/Adam/CLionProjects/acd21_PA6/queueHeader.h
+
+C:/Users/Adam/CLionProjects/acd21_PA6/myStack.cpp
+iostream
+-
+stackHeader.h
+C:/Users/Adam/CLionProjects/acd21_PA6/stackHeader.h
+
+C:/Users/Adam/CLionProjects/acd21_PA6/queueHeader.h
+
+C:/Users/Adam/CLionProjects/acd21_PA6/stackHeader.h
+
